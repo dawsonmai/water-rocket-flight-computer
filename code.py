@@ -38,7 +38,7 @@ def phase_initizalize():
         print(10 - countdown)
         time.sleep(0.1)
     my_servo.angle = 75
-    print("Roekt Ready.")
+    print("Rocket Ready.")
     return 1
 
 
